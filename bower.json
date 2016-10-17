@@ -1,0 +1,20 @@
+{
+  "name": "tap-room",
+  "description": "lists tapped kegs for a tap room",
+  "main": "",
+  "authors": [
+    "Ethan Law and Ben Vissotzky"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
